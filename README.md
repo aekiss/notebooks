@@ -1,2 +1,2 @@
 # notebooks
-assorted Jupyter notebooks
+Assorted Jupyter notebooks
