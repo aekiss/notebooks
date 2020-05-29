@@ -6,6 +6,9 @@
 *.PNG
 *.JPG
 *.JPEG
+*.nc
+*.nc.*
+*.db
 ACCESS-OM2-1-025-010deg.*
 !ACCESS-OM2-1-025-010deg.tex
 !ACCESS-OM2-1-025-010deg.bib
